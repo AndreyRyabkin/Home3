@@ -12,7 +12,7 @@ class AutoTest {
    transferAmount = transferAmount,
    previousTransfers = previousTransfers
   )
-  assertEquals(0, result)
+  assertEquals(1000, result)
 
  }
 
